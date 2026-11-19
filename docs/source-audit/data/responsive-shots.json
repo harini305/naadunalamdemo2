@@ -1,0 +1,621 @@
+{
+ "shop": {
+  "desktop": {
+   "docH": 2487,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Shop All Organic Products",
+   "kb": 1218
+  },
+  "tablet": {
+   "docH": 5943,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Shop All Organic Products",
+   "kb": 2064
+  },
+  "mobile": {
+   "docH": 4221,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Shop All Organic Products",
+   "kb": 646
+  }
+ },
+ "about": {
+  "desktop": {
+   "docH": 4899,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "About Naadu Nalam",
+   "kb": 2412
+  },
+  "tablet": {
+   "docH": 6352,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "About Naadu Nalam",
+   "kb": 2428
+  },
+  "mobile": {
+   "docH": 7953,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "About Naadu Nalam",
+   "kb": 1643
+  }
+ },
+ "services": {
+  "desktop": {
+   "docH": 6019,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Services That Bring Goodness Closer to You",
+   "kb": 1447
+  },
+  "tablet": {
+   "docH": 6936,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Services That Bring Goodness Closer to You",
+   "kb": 1099
+  },
+  "mobile": {
+   "docH": 10092,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Services That Bring Goodness Closer to You",
+   "kb": 754
+  }
+ },
+ "contact": {
+  "desktop": {
+   "docH": 1986,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Contact Us",
+   "kb": 188
+  },
+  "tablet": {
+   "docH": 2265,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Contact Us",
+   "kb": 151
+  },
+  "mobile": {
+   "docH": 2629,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Contact Us",
+   "kb": 123
+  }
+ },
+ "testimonials": {
+  "desktop": {
+   "docH": 5590,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "What Our Customers Say",
+   "kb": 988
+  },
+  "tablet": {
+   "docH": 5536,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "What Our Customers Say",
+   "kb": 898
+  },
+  "mobile": {
+   "docH": 6835,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "What Our Customers Say",
+   "kb": 557
+  }
+ },
+ "product-rice": {
+  "desktop": {
+   "docH": 3427,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Mappillai Samba Rice (\u0bae\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bbe \u0b85\u0bb0\u0bbf\u0b9a\u0bbf)",
+   "kb": 924
+  },
+  "tablet": {
+   "docH": 4779,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Mappillai Samba Rice (\u0bae\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bbe \u0b85\u0bb0\u0bbf\u0b9a\u0bbf)",
+   "kb": 791
+  },
+  "mobile": {
+   "docH": 4723,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Mappillai Samba Rice (\u0bae\u0bbe\u0baa\u0bcd\u0baa\u0bbf\u0bb3\u0bcd\u0bb3\u0bc8 \u0b9a\u0bae\u0bcd\u0baa\u0bbe \u0b85\u0bb0\u0bbf\u0b9a\u0bbf)",
+   "kb": 418
+  }
+ },
+ "category-rice": {
+  "desktop": {
+   "docH": 2470,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Shop All Organic Products",
+   "kb": 942
+  },
+  "tablet": {
+   "docH": 5537,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Shop All Organic Products",
+   "kb": 1634
+  },
+  "mobile": {
+   "docH": 4217,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Shop All Organic Products",
+   "kb": 525
+  }
+ },
+ "collaborators": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/collaborators/",
+   "docH": 2221,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Collaborators",
+   "kb": 270
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/collaborators/",
+   "docH": 2482,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Collaborators",
+   "kb": 224
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/collaborators/",
+   "docH": 3047,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Collaborators",
+   "kb": 200
+  }
+ },
+ "collaborator-detail": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/collaborators/tst-music-dance-academy/",
+   "docH": 1756,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "TST Music & Dance Academy",
+   "kb": 225
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/collaborators/tst-music-dance-academy/",
+   "docH": 1708,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "TST Music & Dance Academy",
+   "kb": 164
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/collaborators/tst-music-dance-academy/",
+   "docH": 2027,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "TST Music & Dance Academy",
+   "kb": 145
+  }
+ },
+ "events": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/events/",
+   "docH": 2119,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Events",
+   "kb": 249
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/events/",
+   "docH": 2307,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Events",
+   "kb": 199
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/events/",
+   "docH": 2767,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Events",
+   "kb": 177
+  }
+ },
+ "calendar": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/calendar/",
+   "docH": 2331,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Calendar",
+   "kb": 258
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/calendar/",
+   "docH": 2423,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Calendar",
+   "kb": 209
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/calendar/",
+   "docH": 2804,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Calendar",
+   "kb": 185
+  }
+ },
+ "research": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/research-articles/",
+   "docH": 2448,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Research Articles",
+   "kb": 645
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/research-articles/",
+   "docH": 2812,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Research Articles",
+   "kb": 555
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/research-articles/",
+   "docH": 3539,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Research Articles",
+   "kb": 463
+  }
+ },
+ "blog": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/blog/",
+   "docH": 2604,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Blog",
+   "kb": 1518
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/blog/",
+   "docH": 4180,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Blog",
+   "kb": 1283
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/blog/",
+   "docH": 5378,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Blog",
+   "kb": 949
+  }
+ },
+ "blog-post": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/many-sellers-one-basket/",
+   "docH": 1836,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Many Sellers, One Basket: How Buying Direct Works Here",
+   "kb": 269
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/many-sellers-one-basket/",
+   "docH": 2158,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Many Sellers, One Basket: How Buying Direct Works Here",
+   "kb": 229
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/many-sellers-one-basket/",
+   "docH": 2417,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Many Sellers, One Basket: How Buying Direct Works Here",
+   "kb": 181
+  }
+ },
+ "store-listing": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/store-listing/",
+   "docH": 975,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Store Listing",
+   "kb": 181
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/store-listing/",
+   "docH": 1502,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Store Listing",
+   "kb": 146
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/store-listing/",
+   "docH": 1877,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Store Listing",
+   "kb": 136
+  }
+ },
+ "my-account": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/my-account/",
+   "docH": 1214,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "My Account",
+   "kb": 167
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/my-account/",
+   "docH": 1824,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "My Account",
+   "kb": 129
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/my-account/",
+   "docH": 1808,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "My Account",
+   "kb": 100
+  }
+ },
+ "vendor-login": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/vendor-login/",
+   "docH": 1870,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Sell on Naadu Nalam",
+   "kb": 235
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/vendor-login/",
+   "docH": 2344,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Sell on Naadu Nalam",
+   "kb": 181
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/vendor-login/",
+   "docH": 2787,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Sell on Naadu Nalam",
+   "kb": 166
+  }
+ },
+ "terms": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/terms/",
+   "docH": 5720,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Terms of Service",
+   "kb": 643
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/terms/",
+   "docH": 6115,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Terms of Service",
+   "kb": 558
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/terms/",
+   "docH": 7764,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Terms of Service",
+   "kb": 556
+  }
+ },
+ "cart": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/cart/",
+   "docH": 1988,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "Your Cart",
+   "kb": 777
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/cart/",
+   "docH": 2823,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "Your Cart",
+   "kb": 826
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/cart/",
+   "docH": 2408,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "Your Cart",
+   "kb": 340
+  }
+ },
+ "wishlist": {
+  "desktop": {
+   "url": "https://naadunalam.fastfilings.in/wishlist/",
+   "docH": 2165,
+   "sw": 1440,
+   "cw": 1440,
+   "headerH": 177,
+   "footerH": 284,
+   "h1": "My Wishlist",
+   "kb": 745
+  },
+  "tablet": {
+   "url": "https://naadunalam.fastfilings.in/wishlist/",
+   "docH": 2744,
+   "sw": 768,
+   "cw": 768,
+   "headerH": 233,
+   "footerH": 437,
+   "h1": "My Wishlist",
+   "kb": 458
+  },
+  "mobile": {
+   "url": "https://naadunalam.fastfilings.in/wishlist/",
+   "docH": 2829,
+   "sw": 390,
+   "cw": 390,
+   "headerH": 70,
+   "footerH": 610,
+   "h1": "My Wishlist",
+   "kb": 285
+  }
+ }
+}
